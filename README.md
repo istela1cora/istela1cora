@@ -2,7 +2,7 @@
 
 meu nome é Istela
 
--estou estudando na Alura
+-estou estudando na [Alura](https://www.alura.com.br)
 
 -estou me desenvolvendo na linguagem JavaScript
 
@@ -14,4 +14,4 @@ istela.borges@escola.br.gov.pr
 
 @istela_01
 
-![](https://media.tenor.com/Egt2H3v94ZYAAAAd/dog-pool.gif)
+![](https://media.tenor.com/iHghsBImCOkAAAAd/dog.gif)
